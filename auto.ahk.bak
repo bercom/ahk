@@ -1,0 +1,8 @@
+;auto.ahk
+#n::
+Run Notepad
+return
+
+^j::
+Send, mit første script
+return
